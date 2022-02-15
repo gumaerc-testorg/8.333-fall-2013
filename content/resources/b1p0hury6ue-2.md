@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/91843e793c885f6db2ab298a92c27928_b1P0hurY6UE.vtt
+file: /media/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/91843e793c885f6db2ab298a92c27928_b1P0hurY6UE.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 91843e79-3c88-5f6d-b2ab-298a92c27928

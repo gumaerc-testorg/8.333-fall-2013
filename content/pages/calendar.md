@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fc8fa0d7-c7de-41b7-8e71-c5608867f5ae
 ---
@@ -513,7 +515,7 @@ Problem set 6 due
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Superfluid He4
+Superfluid He{{< sup "4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ffe015bb-11d9-f907-6c10-fdcdfd117edb
 ---
@@ -369,7 +372,7 @@ The Degenerate Bose Gas
 L26
 {{< tdclose >}}
 {{< tdopen >}}
-Superfluid He4
+Superfluid He{{< sup "4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture Note 26 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec26)

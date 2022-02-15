@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Probability Part 2'
 uid: dff846fe-630e-2525-fbb1-522f3b9af3f0
 video_files:
   archive_url: http://archive.org/download/MIT8.333F13/MIT8_333F13_lec06_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/0c6c24661d785f06a02f7997addd0578_I_LcUur7quE.vtt
+  video_captions_file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/0c6c24661d785f06a02f7997addd0578_I_LcUur7quE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/I_LcUur7quE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/2632a11d682c265c4b538a8b55f847bf_I_LcUur7quE.pdf
+  video_transcript_file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/2632a11d682c265c4b538a8b55f847bf_I_LcUur7quE.pdf
 video_metadata:
   youtube_id: I_LcUur7quE
 ---
