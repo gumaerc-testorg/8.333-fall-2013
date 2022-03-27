@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 40eed3bd-b90a-8283-b00f-97f3aa6b161d
 resourcetype: Document
 title: 'Statistical Mechanics I: Exam Review 2'
 uid: 8767f2a8-7842-8fa2-1896-1ed56164ee4d
