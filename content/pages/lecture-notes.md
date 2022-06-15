@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics along with lecture
+  notes from an earlier version of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ L1
 Fundamental Definitions, The Zeroth Law, The First Law
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 1 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec1)
+{{% resource_link 0d0ec730-e8e0-2ed0-399d-39ff05054a72 "Lecture Note 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +53,7 @@ L2
 The Second Law, Carnot Engines and Thermodynamic Temperature, Entropy
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 2 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec2)
+{{% resource_link 1a131e22-5246-d974-9a29-8f49675c5fe5 "Lecture Note 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ L3
 Approach to Equilibrium and Thermodynamic Potentials, Useful Mathematical Results
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 3 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec3)
+{{% resource_link df0c4e12-1858-c0be-246b-496dd8c39d2c "Lecture Note 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +77,7 @@ L4
 Stability Conditions, The Third Law
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 4 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec4)
+{{% resource_link 97dcd8de-e3d3-301c-d7c2-7745b17b10b5 "Lecture Note 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ L5
 General Definitions, One Random Variable, Some Important Probability Distributions
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 5 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec5)
+{{% resource_link 1304ec80-aa5e-ef75-6953-cb9836c71783 "Lecture Note 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ L6
 Many Random Variables, Sums of Random Variables and the Central Limit Theorem, Rules for Large Numbers, Information, Entropy, and Estimation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 6 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec6)
+{{% resource_link d6cfa6c7-32e8-26b0-dc32-61423b0de766 "Lecture Note 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ L7
 General Definitions, Liouville's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 7 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec7)
+{{% resource_link e84a1d80-7e85-6753-60d9-ac0098b61885 "Lecture Note 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ L8
 The Bogoliubov-Born-Green-Kirkwood-Yvon Hierarchy, The Boltzmann Equation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 8 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec8)
+{{% resource_link b8c07404-633c-dba3-217e-434ac06569ad "Lecture Note 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ L9
 The H-Theorem and Irreversibility, Equilibrium Properties
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 9 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec9)
+{{% resource_link ce250b44-3901-0635-1cb9-7aafb0060ca7 "Lecture Note 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +161,7 @@ L10
 Conservation Laws
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 10 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec10)
+{{% resource_link ae32d4e5-3c9f-a0be-e417-1378caa4ea84 "Lecture Note 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ L11
 Zeroth Order Hydrodynamics, First Order Hydrodynamics
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 11 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec11)
+{{% resource_link 7b163cc0-ea13-59b7-0b01-8a1415399d64 "Lecture Note 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ L12
 General Definitions, The Microcanonical Ensemble, Two-Level Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 12 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec12)
+{{% resource_link 0cb99318-c2ed-8893-16cd-cff839759e8d "Lecture Note 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ L13
 The Ideal Gas, Mixing Entropy and Gibbs' Paradox, The Canonical Ensemble
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 13 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec13)
+{{% resource_link 0cdb670a-825c-6aae-a7e2-29ac40776cbf "Lecture Note 13 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ L14
 Examples, The Gibbs Canonical Ensemble, The Grand Canonical Ensemble
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 14 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec14)
+{{% resource_link 89259a8f-d183-acfa-ec06-922c88a6024b "Lecture Note 14 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +233,7 @@ L15
 The Cumulant Expansion
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 15 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec15)
+{{% resource_link fe267b8b-9cd0-8ef3-3108-8a380ce89c24 "Lecture Note 15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ L16
 The Cluster Expansion
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 16 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec16)
+{{% resource_link 2ef1be3b-b5b4-2edc-fd13-eb38e7204ecf "Lecture Note 16 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +257,7 @@ L17
 The Second Virial Coefficient and Van der Waals Equation, Breakdown of the Van der Waals Equation, Mean Field Theory of Condensation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 17 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec17)
+{{% resource_link 6739dd60-5517-6b78-b910-3e2de8850978 "Lecture Note 17 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +269,7 @@ L18
 Variational Methods, Corresponding States, Critical Point Behavior
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 18 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec18)
+{{% resource_link 7425bcac-56bd-0c9d-fe0f-441344ca58e8 "Lecture Note 18 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ L19
 Mean field theory of condensation, Corresponding states, Critical point behavior (from L17 & L18)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 19 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec19)
+{{% resource_link 9aefe412-bfeb-bc12-42c7-3ce46c38cd57 "Lecture Note 19 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +299,7 @@ L20
 Dilute Polyatomic Gases, Vibrations of a Solid, Black-body Radiation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 20 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec20)
+{{% resource_link 368b2180-e6ef-a141-7ab3-36d79b2df6db "Lecture Note 20 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ L21
 Quantum Microstates, Quantum Macrostates
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 21 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec21)
+{{% resource_link 4f8defd6-fcba-707a-0c69-1dd8957a43e3 "Lecture Note 21 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,7 +329,7 @@ L22
 Hilbert Space of Identical Particles
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 22 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec22)
+{{% resource_link 7f26f530-bdda-5d69-c399-057bd4b1bd28 "Lecture Note 22 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -339,7 +341,7 @@ L23
 Canonical Formulation, Grand Canonical Formulation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 23 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec23)
+{{% resource_link 97bfdfb9-3240-e2f4-8984-629ad0c037de "Lecture Note 23 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +353,7 @@ L24
 The Degenerate Fermi Gas
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 24 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec24)
+{{% resource_link 9d5207ee-f23c-4d6e-18ef-3afbca5d9d81 "Lecture Note 24 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -363,7 +365,7 @@ L25
 The Degenerate Bose Gas
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 25 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec25)
+{{% resource_link 85cd383f-3ca4-573c-3d57-8db435257c5a "Lecture Note 25 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,7 +377,7 @@ L26
 Superfluid He{{< sup "4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 26 (PDF)]({{< baseurl >}}/resources/mit8_333f13_lec26)
+{{% resource_link 7e6c7093-1d8b-d79f-e237-60fe3eedfb7b "Lecture Note 26 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

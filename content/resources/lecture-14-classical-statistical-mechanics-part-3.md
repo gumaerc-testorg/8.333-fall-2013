@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This is the third of three lectures on Classical Statistical Mechanics.
 
 **Instructor:** Mehran Kardar
+
+
+
