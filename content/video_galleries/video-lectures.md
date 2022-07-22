@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section includes twenty six lecture videos recorded on the MIT campus.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 9d57c8d0-3ae5-67b2-6a8c-d8c8f296187c
 videos:
@@ -34,7 +38,7 @@ videos:
   website: 8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013
 ---
 
-The titles reflect content of the [lecture notes]({{< baseurl >}}/pages/lecture-notes), which may not completely reflect the sequence of the video lectures.
+The titles reflect content of the {{% resource_link ffe015bb-11d9-f907-6c10-fdcdfd117edb "lecture notes" %}}, which may not completely reflect the sequence of the video lectures.
 
 {{< video-gallery "9d57c8d0-3ae5-67b2-6a8c-d8c8f296187c" >}}
 
