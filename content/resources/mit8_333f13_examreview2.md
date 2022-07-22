@@ -5,6 +5,7 @@ file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Statistical Mechanics I: Exam Review 2'
 uid: 8767f2a8-7842-8fa2-1896-1ed56164ee4d
 ---
 This file contains information regarding exam review 2.
-

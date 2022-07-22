@@ -5,6 +5,7 @@ file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Statistical Mechanics I: Problem Set 6'
 uid: af375110-e1e4-5363-e65c-8fd626c614d9
 ---
 This file contains information regarding problem set 6.
-
