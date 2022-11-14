@@ -35,5 +35,3 @@ video_metadata:
 
 **Instructor:** Mehran Kardar
 
-
-
