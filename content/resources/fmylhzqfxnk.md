@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/e2bac20cd46dd5dfee0e88c08ba47054_FmylhZqFXNk.srt
+file_size: 82405
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
