@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/ccb03b287db63e6a423a294ac2fd9d73_w_I0AkvbWFc.srt
+file: /courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/ccb03b287db63e6a423a294ac2fd9d73_w_I0AkvbWFc.srt
 file_size: 82907
 file_type: application/x-subrip
 learning_resource_types: []
