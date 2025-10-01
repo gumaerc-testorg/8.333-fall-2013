@@ -45,19 +45,19 @@ This course does not follow a particular text. The following are useful referenc
 
 Huang, Kerson. _Statistical Mechanics_. 2nd ed. Wiley, 1987. ISBN: 9780471815181.
 
-Pathria, R. K. _Statistical Mechanics_. Pergamon Press, 1972. ISBN: 9780080189949. \[Preview with [Google Books](http://books.google.com/books?id=PIk9sF9j2oUC&pg=PAfrontcover)\]
+Pathria, R. K. _Statistical Mechanics_. Pergamon Press, 1972. ISBN: 9780080189949. \[Preview with {{% resource_link "c57a5e64-951f-48ac-817f-97ae77910616" "Google Books" %}}\]
 
-Pippard, A. B. _The Elements of Classical Thermodynamics for Advanced Students of Physics_. University Press, 1966. \[Preview with [Google Books](http://books.google.com/books?id=GVhaSQ7eBQoC&pg=PAfrontcover)\]
+Pippard, A. B. _The Elements of Classical Thermodynamics for Advanced Students of Physics_. University Press, 1966. \[Preview with {{% resource_link "f4369583-7df3-455d-80dd-73a55043be19" "Google Books" %}}\]
 
 Ma, Shang-keng. _Statistical Mechanics_. Translated by M. K. Fung. World Scientific Publishing Company, 1985. ISBN: 9789971966065.
 
 Landau, L. D., and E. M. Lifshitz. _Statistical Physics, Part 1_. 3rd ed. Pergamon Press, 1980. ISBN: 9780080230382.
 
-Reif, Frederick, ed. _Fundamentals of Statistical and Thermal Physics_. McGraw-Hill, 1965. \[Preview with [Google Books](http://books.google.com/books?id=ObsbAAAAQBAJ&pg=PAfrontcover)\]
+Reif, Frederick, ed. _Fundamentals of Statistical and Thermal Physics_. McGraw-Hill, 1965. \[Preview with {{% resource_link "41362396-5251-46a6-88e4-5a281daed7cd" "Google Books" %}}\]
 
-Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with [Google Books](http://books.google.com/books?id=A7RuDgAAQBAJ&pg=PAfrontcover)\]
+Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with {{% resource_link "44136100-5a10-43bf-924a-fdd3d9e445ab" "Google Books" %}}\]
 
-Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN 9780521873420. \[Preview with [Google Books](http://books.google.com/books?id=1WlFhiz5UjwC&pg=PAfrontcover)\]
+Kardar, Mehran. _Statistical Physics of Particles_. Cambridge University Press, 2007. ISBN 9780521873420. \[Preview with {{% resource_link "8f7c1798-5a30-4fa3-9b9f-a33f6be80e15" "Google Books" %}}\]
 
 Problem Sets
 ------------
